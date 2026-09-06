@@ -1,0 +1,10 @@
+path: .          # resolved relative to this file's location
+train: dataset/Train
+val:   dataset/Val
+test:  dataset/Test
+nc: 4
+names:
+  - Glioma
+  - Meningioma
+  - No Tumor
+  - Pituitary
